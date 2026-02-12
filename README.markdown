@@ -38,8 +38,8 @@ The material follows the lecture slides used in class deck.
 
 ### How to use this repository
 
-1. Read the installation guide → [Intallation Guide](installation.md)
-2. Download or open the exercises → [Exercises](exercises.md)
+1. Read the installation guide → [Intallation Guide](installation.markdown)
+2. Download or open the exercises → [Exercises](exercises.markdown)
 3. Follow the tutorial step by step
 4. Complete the exercises
 5. Run all programs locally
