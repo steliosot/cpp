@@ -38,7 +38,7 @@ The material follows the lecture slides used in class deck.
 
 ### How to use this repository
 
-1. Explore the slide deck → [Download Slide Deck](deck.pdf)
+1. Explore the slide deck → [Download Slide Deck](https://www.dropbox.com/scl/fi/h561my8cr37frzj5i95yx/deck.pdf?rlkey=sz51k4r5jc18m23mzmjbzcrep&dl=0)
 2. Read the installation guide → [Intallation Guide](installation.markdown)
 3. Download or open the exercises → [Exercises](exercises.markdown)
 4. Follow the tutorial step by step
