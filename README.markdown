@@ -21,7 +21,6 @@ The material follows the lecture slides used in class deck.
 .
 ├── README.md
 ├── deck.pdf
-├── deck.html
 ├── exercises.md
 ├── installation.md
 ```
@@ -39,7 +38,7 @@ The material follows the lecture slides used in class deck.
 
 ### How to use this repository
 
-1. Explore the slide deck → [Slide Deck](deck.html) or download the PDF file [Slide Deck](deck.pdf)
+1. Explore the slide deck → [Download Slide Deck](deck.pdf)
 2. Read the installation guide → [Intallation Guide](installation.markdown)
 3. Download or open the exercises → [Exercises](exercises.markdown)
 4. Follow the tutorial step by step
