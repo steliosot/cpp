@@ -6,6 +6,12 @@
 
 This lab follows the lecture slides and helps you practice basic C++ step by step. You will write small programs that take input, make decisions, and repeat tasks. We will also connect programming to a real-world example: detecting fake news.
 
+---
+
+### Quiz
+
+[Complete the quiz](https://kahoot.it/solo?quizId=2ff195ec-47ff-4960-a3d7-ba81a52f0644) before starting.
+
 ------
 
 ### Learning Goals
